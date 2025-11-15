@@ -4,9 +4,6 @@ int main() {
     // Print a simple string literal
     std::cout << "Hello, C++ World!" << std::endl; 
 
-    // Declare and initialize a variable
-    int number = 42;
-
     // Print a string and a variable's value
     std::cout << "The answer is: " << number << std::endl; 
 
